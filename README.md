@@ -17,3 +17,16 @@ Proyecto  para reconstrucción tomográfica a partir de imágenes y sinogramas. 
 
 ```bash
 pip install -r requirements.txt
+```
+## Ejecución
+```bash
+python interfaz4.py
+```
+## Nota sobre datos
+Los datos DICOM, sinogramas y modelos entrenados no se incluyen en este repositorio por tamaño y privacidad.
+el repositorio que se usó fue SinoCT [1].
+
+
+## Referencias
+
+[1] Stanford AIMI. (2026). SinoCT (Version 1.0) [Dataset]. Redivis. https://stanford.redivis.com/datasets/eznj-8hywfc0mq?v=1.0
