@@ -1,0 +1,24 @@
+# Datos médicos / datos grandes
+data/
+*.dcm
+*.npy
+*.npz
+*.pth
+*.pt
+*.h5
+
+# Resultados generados
+training_results/
+test_results/
+outputs/
+__pycache__/
+*.pyc
+
+# Entornos
+venv/
+.env/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
