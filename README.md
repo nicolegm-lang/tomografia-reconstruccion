@@ -1,4 +1,4 @@
-#Reconstrucción Tomográfica 
+# Reconstrucción Tomográfica 
 
 Proyecto  para reconstrucción tomográfica a partir de imágenes y sinogramas. La interfaz permite generar sinogramas mediante transformada de Radon, reconstruir imágenes usando retroproyección filtrada, comparar filtros, aplicar realce digital y utilizar una red U-Net residual para autoajuste de reconstrucciones.
 
